@@ -1,0 +1,61 @@
+.logo-img {
+	max-width: 200px;
+}
+
+#about.container {
+	padding: 70px 20px;
+}
+
+.text-padding {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.gmap {
+	width: 100%;
+	height: 15em;
+	padding: 40px 5% 0px 5%;
+}
+
+p.intro {
+	font-size: 1.3em;
+	line-height: 30px;
+}
+
+#service {
+	background-color: #48C1BB;
+}
+
+#teams h3 {
+	font-size: 1.8em;
+}
+
+#teams p {
+	padding-top: 5px;
+	font-size: 1.5em;
+}
+
+.contact-title {
+	line-height: 31px;
+}
+
+
+
+/*iframe {
+	width: 100%;
+	height: 15em;	
+}*/
+
+@media (min-width: 768px) {
+	.gmap {
+		height: 24em;
+	}	
+
+}
+
+@media (max-width: 850px) {
+	#contact {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+}
