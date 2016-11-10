@@ -39,6 +39,51 @@ p.intro {
 	line-height: 31px;
 }
 
+#service {
+	background-color: #35908b;
+}
+
+#service .container {
+	padding-top: 50px;
+}
+
+#portfolio .container {
+	padding-top: 50px;
+}
+
+.building-img-top {
+	max-width: 90%;
+	/*padding-bottom: 20px;*/
+	/*padding-left: 10.5%;*/
+}
+
+.building-img {
+	max-width: 85%;
+	margin-left: 7.5%;
+	padding-bottom: 5em;
+	padding-top: 2em;
+}
+
+.summary-points {
+	padding-bottom: 20px;
+}
+
+.contact-form {
+	padding-bottom: 30px;
+}
+
+.team-paliwal-logo {
+	padding-top: 2em;
+	max-width: 60%;
+}
+
+.contact-hr {
+	padding-bottom: 30px;
+	max-width: 70%;
+	margin-left: 15%;
+	border-top: 4px solid #eee;
+}
+
 
 
 /*iframe {
@@ -49,7 +94,11 @@ p.intro {
 @media (min-width: 768px) {
 	.gmap {
 		height: 24em;
-	}	
+	}
+	
+	.contact-info {
+		padding-top: 3em;
+	}
 
 }
 
